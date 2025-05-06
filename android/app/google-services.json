@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066294692574",
+    "project_id": "prediction-67f18",
+    "storage_bucket": "prediction-67f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066294692574:android:d6407397d99011ede6904f",
+        "android_client_info": {
+          "package_name": "com.example.diabetes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhdKnLlB0W_Jx-yzI2XE2H7nMZg93uic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
